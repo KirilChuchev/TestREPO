@@ -2,8 +2,12 @@ Creating with Bash…
 Creating with Tortoise…..
 
 
+changed from Bash
+
+
 my new commit
 
 changes made ftom github.com
 
-my last changes from Tortoise
+
+my last changes from Tortoise and my last commit from Bash
